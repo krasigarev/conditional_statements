@@ -38,4 +38,4 @@ elif city == "varna":
     elif product == "peanuts":
         price = quantity * 1.55
 
-print(price)
+print(f"{price:.2f}")
