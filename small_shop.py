@@ -1,10 +1,10 @@
-product = input()
-city = input()
+product = input().lower()
+city = input().lower()
 quantity = float(input())
 
 price = 0
 
-if city == "Sofia":
+if city == "sofia":
     if product == "coffee":
         price = quantity * 0.5
     elif product == "water":
@@ -15,7 +15,7 @@ if city == "Sofia":
         price = quantity * 1.45
     elif product == "peanuts":
         price = quantity * 1.60
-elif city == "Plovdiv":
+elif city == "plovdiv":
     if product == "coffee":
         price = quantity * 0.4
     elif product == "water":
@@ -26,7 +26,7 @@ elif city == "Plovdiv":
         price = quantity * 1.30
     elif product == "peanuts":
         price = quantity * 1.50
-elif city == "Varna":
+elif city == "varna":
     if product == "coffee":
         price = quantity * 0.45
     elif product == "water":
