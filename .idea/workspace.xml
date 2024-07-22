@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="712ec6fc-512f-457f-91ce-5380beaa9521" name="Changes" comment="conditional_statements&#10;&#10;Signed-off-by: krasigarev &lt;kgarev@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/ski_holiday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +53,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Unit_converter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.age.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus_point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check_fruit.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.point_in_a_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shop_fruit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ski_holiday.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.small_shop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.speed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trade_commissions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.valid_number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;conditional__statements&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Unit_converter.executor": "Run",
+    "Python.age.executor": "Run",
+    "Python.bonus_point.executor": "Run",
+    "Python.check_fruit.executor": "Debug",
+    "Python.cinema.executor": "Run",
+    "Python.point.executor": "Run",
+    "Python.point_in_a_rectangle.executor": "Run",
+    "Python.shop_fruit.executor": "Run",
+    "Python.ski_holiday.executor": "Debug",
+    "Python.small_shop.executor": "Run",
+    "Python.speed.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.trade_commissions.executor": "Run",
+    "Python.valid_number.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "conditional__statements"
   }
-}</component>
-  <component name="RunManager" selected="Python.ski_holiday">
-    <configuration name="check_fruit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.cinema">
+    <configuration name="cinema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="conditional_statements" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +87,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_fruit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cinema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="conditional_statements" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,35 +184,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valid_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="conditional_statements" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valid_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cinema" />
+        <item itemvalue="Python.point" />
         <item itemvalue="Python.ski_holiday" />
         <item itemvalue="Python.trade_commissions" />
         <item itemvalue="Python.shop_fruit" />
-        <item itemvalue="Python.valid_number" />
-        <item itemvalue="Python.check_fruit" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721663749406</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="conditional_statements&#10;&#10;Signed-off-by: krasigarev &lt;kgarev@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1721667339941</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721667339941</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -342,16 +353,5 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ski_holiday.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
