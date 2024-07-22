@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="712ec6fc-512f-457f-91ce-5380beaa9521" name="Changes" comment="conditional_statements&#10;&#10;Signed-off-by: krasigarev &lt;kgarev@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/check_fruit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_in_a_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +62,12 @@
     "Python.small_shop.executor": "Run",
     "Python.speed.executor": "Run",
     "Python.time.executor": "Run",
+    "Python.valid_number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "conditional__statements"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.check_fruit">
+  <component name="RunManager" selected="Python.valid_number">
     <configuration name="age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="conditional_statements" />
       <option name="ENV_FILES" value="" />
@@ -155,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="valid_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="conditional_statements" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valid_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.valid_number" />
         <item itemvalue="Python.check_fruit" />
         <item itemvalue="Python.point_in_a_rectangle" />
         <item itemvalue="Python.small_shop" />
         <item itemvalue="Python.age" />
-        <item itemvalue="Python.time" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721569117914</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="conditional_statements&#10;&#10;Signed-off-by: krasigarev &lt;kgarev@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1721574853189</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721574853189</updated>
+    </task>
+    <task id="LOCAL-00012" summary="conditional_statements&#10;&#10;Signed-off-by: krasigarev &lt;kgarev@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1721575130639</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575130639</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
