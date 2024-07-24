@@ -1,9 +1,7 @@
-import math
-
 money = float(input())
 
 coins_counter = 0
-money *= 100
+money = int(money * 100)
 
 while money > 0:
     if money >= 200:
@@ -30,7 +28,5 @@ while money > 0:
     elif money >= 1:
         coins_counter += 1
         money -= 1
-
-    money = math.floor(money)
 
 print(coins_counter)
