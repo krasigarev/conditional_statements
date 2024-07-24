@@ -4,7 +4,7 @@ moneyForSweaters = 0
 adultsCount = 0
 command = input()
 
-while "Christmas" == command:
+while not "Christmas" == command:
     years = int(command)
     if years <= 16:
         moneyForToys += 5
