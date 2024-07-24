@@ -5,9 +5,8 @@ total = 0
 problems_count = 0
 last_problems = None
 
-while bad_grades_count <= max_bad_grades:
+while bad_grades_count < max_bad_grades:
     problem = input()
-
     if problem == "Enough":
         break
     grade = int(input())
